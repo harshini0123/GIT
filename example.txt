@@ -1,0 +1,1 @@
+hi its example code (which are untracked files and they didnt come to tracked state  so this area is called working directory)
